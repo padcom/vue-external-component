@@ -1,5 +1,5 @@
 <template>
-  <h1>{{ caption }}</h1>
+  <h1 class="my-header">{{ caption }}</h1>
 </template>
 
 <script>
@@ -17,3 +17,9 @@ import Component from 'vue-class-component'
 export default class MyHeader extends Vue {
 }
 </script>
+
+<style>
+.my-header {
+  color: gray;
+}
+</style>

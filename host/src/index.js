@@ -1,8 +1,3 @@
-import Vue from 'vue'
+import App from './App.vue'
 
-import { MyHeader } from 'library'
-
-new Vue({
-  el: '#app',
-  render: h => h(MyHeader, { props: { caption: 'Hello!' } })
-})
+new App({ el: '#app' })
