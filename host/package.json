@@ -1,0 +1,17 @@
+{
+  "name": "host",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "poi",
+    "test": "poi test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "poi": "^9.6.9",
+    "vue": "^2.5.13",
+    "library": "file:../library"
+  }
+}

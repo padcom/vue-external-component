@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/library.js",
+  "scripts": {
+    "start": "poi src/main.js",
+    "test": "poi test",
+    "build": "poi build --library --no-clear",
+    "watch": "poi watch --library --no-clear"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "poi": "^9.6.9"
+  },
+  "dependencies": {
+    "vue": "^2.5.0",
+    "vue-class-component": "^6.1.2"
+  }
+}
