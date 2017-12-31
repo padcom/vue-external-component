@@ -1,3 +1,5 @@
+# Example library with Vue components
+
 First run with fresh repository:
 ```
 npm adduser --repository http://localhost:4873
