@@ -1,4 +1,4 @@
-# Example library with Vue components
+## Getting started
 
 First run with fresh repository:
 ```
