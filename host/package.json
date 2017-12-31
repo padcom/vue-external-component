@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "poi": "^9.6.9",
-    "library": "file:../library"
+    "library": "1.0.0"
   }
 }
