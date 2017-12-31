@@ -3,7 +3,7 @@
 First run with fresh repository:
 ```
 npm adduser --repository http://localhost:4873
-npm publis
+npm publish
 ```
 
 First run with an existing repository
